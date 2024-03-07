@@ -8,3 +8,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 
 ### Added
 - ...
+
+## [Simulated-Placement-Student ILP 1.0.0](https://github.com/UWLSimulationCentre/Simulated-Placement-Student-Induction/releases/tag/Simulated-Placement-Student-ILP-1.0.0) - 2024-03-07
+### Added
+- 🌱 Initial Release 
