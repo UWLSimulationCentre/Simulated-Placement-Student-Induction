@@ -12,7 +12,7 @@ The Simulated Placement provides healthcare students with a realistic placement 
 
 <div align="center">
   <kbd>
-    <img src="" />
+    <img src="https://i.imgur.com/gTa0H1N.png" />
   </kbd>
 </div>
 
