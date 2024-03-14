@@ -9,6 +9,14 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 ### Added
 - ...
 
+## [Simulated-Placement-Student ILP 1.1.0](https://github.com/UWLSimulationCentre/Simulated-Placement-Student-Induction/releases/tag/Simulated-Placement-Student-ILP-1.1.0) - 2024-03-14
+### Added
+- List of eLearning Requirements (https://github.com/UWLSimulationCentre/Simulated-Placement-Student-Induction/commit/a5e36929e81c567fedb5371002cd2011abee2289)
+
+### Updated
+- Spelling and Typos (https://github.com/UWLSimulationCentre/Simulated-Placement-Student-Induction/commit/90304b126ef4ea3d8bdfe0ce14c96d36dcbac1dd)
+- Accessibility (https://github.com/UWLSimulationCentre/Simulated-Placement-Student-Induction/commit/a5e36929e81c567fedb5371002cd2011abee2289)
+
 ## [Simulated-Placement-Student ILP 1.0.0](https://github.com/UWLSimulationCentre/Simulated-Placement-Student-Induction/releases/tag/Simulated-Placement-Student-ILP-1.0.0) - 2024-03-07
 ### Added
 - 🌱 Initial Release 
